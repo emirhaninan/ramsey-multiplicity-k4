@@ -6,6 +6,7 @@ authors:
   - family-names: Inan
     given-names: Emirhan
     affiliation: "Boğaziçi University"
+doi: 10.5281/zenodo.24517224
 license: CC-BY-4.0
 repository-code: "https://github.com/emirhaninan/ramsey-multiplicity-k4"
 date-released: 2026-11-25

@@ -1,5 +1,7 @@
 # Ramsey multiplicity of K₄: C₈₉ ≤ 0.0301388366
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24517224.svg)](https://doi.org/10.5281/zenodo.24517224)
+
 This repository contains a step graphon (a weighted 2-colouring) whose monochromatic K₄ density is exactly
 
 ```
@@ -63,6 +65,10 @@ The construction refines the step graphons of SK (2026), Van Seters and Jothiman
 - O. Parczyk, S. Pokutta, C. Spiegel and T. Szabó, *New Ramsey multiplicity bounds and search heuristics*, Foundations of Computational Mathematics (2024).
 
 The search strategy was conceived by the author and the code developed through many a back-and-forth with Claude.
+
+## Citation
+
+Emirhan Inan, *Ramsey multiplicity of K₄: a step graphon certificate for C₈₉ ≤ 0.0301388366* (2026). https://doi.org/10.5281/zenodo.24517224
 
 ## License
 
