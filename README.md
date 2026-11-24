@@ -64,7 +64,7 @@ The construction refines the step graphons of SK (2026), Van Seters and Jothiman
 - L. Van Seters and M. Jothimani, *Twelve Clebsch graphs and a new upper bound for the Ramsey multiplicity of K₄*, github.com/lukevs/k4-ramsey (2026).
 - O. Parczyk, S. Pokutta, C. Spiegel and T. Szabó, *New Ramsey multiplicity bounds and search heuristics*, Foundations of Computational Mathematics (2024).
 
-The search strategy was conceived by the author and the code developed through many a back-and-forth with Claude.
+The search strategy was conceived by the author and the code developed through many a back and forth with Claude.
 
 ## Citation
 
