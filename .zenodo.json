@@ -1,0 +1,8 @@
+{
+  "title": "Ramsey multiplicity of K4: a step graphon certificate for C89 ≤ 0.0301388366",
+  "description": "A step graphon with 7680 equal-weight blocks whose monochromatic K4 density is exactly 0.0301388365448629…, proving that the Ramsey multiplicity constant of K4 is at most 0.0301388366. Refines the step graphons of SK (2026), Van Seters and Jothimani (2026), and Parczyk, Pokutta, Spiegel and Szabó (2024). Includes an exact evaluator and independent checks.",
+  "creators": [{"name": "Inan, Emirhan", "affiliation": "Boğaziçi University"}],
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "keywords": ["Ramsey multiplicity", "Ramsey theory", "graphons", "combinatorics", "upper bounds"]
+}

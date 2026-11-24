@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this certificate, please cite it as below."
+title: "Ramsey multiplicity of K4: a step graphon certificate for C89 ≤ 0.0301388366"
+type: dataset
+authors:
+  - family-names: Inan
+    given-names: Emirhan
+    affiliation: "Boğaziçi University"
+license: CC-BY-4.0
+repository-code: "https://github.com/emirhaninan/ramsey-multiplicity-k4"
+date-released: 2026-11-25
+keywords:
+  - Ramsey multiplicity
+  - graphons
+  - combinatorics
