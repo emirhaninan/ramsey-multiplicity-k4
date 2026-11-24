@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24517224.svg)](https://doi.org/10.5281/zenodo.24517224)
 
-This repository contains a step graphon (a weighted 2-colouring) whose monochromatic K₄ density is exactly
+This repository contains a step graphon (a weighted 2-coloring) whose monochromatic K₄ density is exactly
 
 ```
 73070278155526479765345578606645339095483962096083909137 / 2424455836135488232949728695296387575646833376892026880000
